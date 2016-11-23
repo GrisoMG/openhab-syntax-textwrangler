@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BBEditDocumentType</key>
+	<string>CodelessLanguageModule</string>
+	<key>BBLMColorsSyntax</key>
+	<true/>
+	<key>BBLMIsCaseSensitive</key>
+	<false/>
+	<key>BBLMLanguageCode</key>
+	<string>ohab</string>
+	<key>BBLMKeywordList</key>
+	<array>
+		<string>TODO</string>
+		<string>FIXME</string>
+		<string>XXX</string>
+		<string>true</string>
+		<string>false</string>
+		<string>Comment</string>
+		<string>Todo</string>
+		<string>Boolean</string>
+		<string>Group</string>
+		<string>Switch</string>
+		<string>Rollershutter</string>
+		<string>Number</string>
+		<string>String</string>
+		<string>Dimmer</string>
+		<string>Contact</string>
+		<string>DateTime</string>
+		<string>Color</string>
+		<string>AND</string>
+		<string>OR</string>
+		<string>NAND</string>
+		<string>NOR</string>
+		<string>AVG</string>
+		<string>SUM</string>
+		<string>MAX</string>
+		<string>MIN</string>
+		<string>Function</string>
+		<string>String</string>
+		<string>Label</string>
+		<string>Special</string>
+		<string>Macro</string>
+		<string>Include</string>
+		<string>Operator</string>
+		<string>Text</string>
+		<string>Image</string>
+		<string>Frame</string>
+		<string>name</string>
+		<string>label</string>
+		<string>item</string>
+		<string>period</string>
+		<string>refresh</string>
+		<string>icon</string>
+		<string>mappings</string>
+		<string>minValue</string>
+		<string>maxValue</string>
+		<string>step</string>
+		<string>switchsupport</string>
+		<string>url</string>
+		<string>height</string>
+		<string>refresh</string>
+		<string>visibility</string>
+		<string>valuecolor</string>
+		<string>import</string>
+		<string>var</string>
+		<string>say</string>
+		<string>if</string>
+		<string>else</string>
+		<string>switch</string>
+		<string>println</string>
+		<string>case</string>
+		<string>or</string>
+		<string>postUpdate</string>
+		<string>sendCommand</string>
+		<string>createTimer</string>
+		<string>sendTelegram</string>
+		<string>sendTweet</string>
+		<string>sendMail</string>
+		<string>notifyMyAndroid</string>
+		<string>logDebug</string>
+		<string>logInfo</string>
+		<string>logMessage</string>
+		<string>startTime</string>
+		<string>endTime</string>
+		<string>callScript</string>
+		<string>Item</string>
+		<string>Time</string>
+		<string>System</string>
+		<string>Timer</string>
+		<string>Number</string>
+		<string>String</string>
+		<string>received</string>
+		<string>command</string>
+		<string>update</string>
+		<string>changed</string>
+		<string>from</string>
+		<string>to</string>
+		<string>cron</string>
+		<string>is</string>
+		<string>started</string>
+		<string>shuts</string>
+		<string>down</string>
+		<string>url</string>
+		<string>playStream</string>
+		<string>setMasterVolume</string>
+		<string>increaseMasterVolume</string>
+		<string>decreaseMasterVolume</string>
+		<string>case</string>
+		<string>Conditional</string>
+		<string>Macro</string>
+		<string>strategy</string>
+		<string>strategies</string>
+		<string>default</string>
+		<string>filter</string>
+	</array>
+	<key>BBLMLanguageDisplayName</key>
+	<string>OpenHAB</string>
+	<key>BBLMScansFunctions</key>
+	<false/>
+	<key>BBLMSuffixMap</key>
+	<array>
+		<dict>
+			<key>BBLMLanguageSuffix</key>
+			<string>.persist</string>
+		</dict>
+		<dict>
+			<key>BBLMLanguageSuffix</key>
+			<string>.rules</string>
+		</dict>
+		<dict>
+			<key>BBLMLanguageSuffix</key>
+			<string>.sitemap</string>
+		</dict>
+		<dict>
+			<key>BBLMLanguageSuffix</key>
+			<string>.items</string>
+		</dict>
+	</array>
+	<key>BBLMSupportsTextCompletion</key>
+	<string>YES</string>
+	<key>Language Features</key>
+	<dict>
+		<key>Open Block Comments</key>
+		<string>/*</string>
+		<key>Close Block Comments</key>
+		<string>*/</string>
+		<key>Open Parameter Lists</key>
+		<string>(</string>
+		<key>Close Parameter Lists</key>
+		<string>)</string>
+		<key>Open Statement Blocks</key>
+		<string>{</string>
+		<key>Close Statement Blocks</key>
+		<string>}</string>
+		<key>Open Strings 1</key>
+		<string>&apos;</string>
+		<key>Close Strings 1</key>
+		<string>&apos;</string>
+		<key>Open Strings 2</key>
+		<string>&quot;</string>
+		<key>Close Strings 2</key>
+		<string>&quot;</string>
+		<key>End-of-line Ends Strings 1</key>
+		<false/>
+		<key>End-of-line Ends Strings 2</key>
+		<false/>
+		<key>Escape Char in Strings 1</key>
+		<string>\</string>
+		<key>Escape Char in Strings 2</key>
+		<string>\</string>
+		<key>Open Line Comments</key>
+		<string>//</string>
+		<key>Identifier and Keyword Characters</key>
+		<string>0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz^-_./</string>
+		<key>Prefix for Functions</key>
+		<string>Frame</string>
+		<key>Prefix for Procedures</key>
+		<string>Group</string>
+		<key>Terminator for Prototypes 1</key>
+		<string></string>
+		<key>Terminator for Prototypes 2</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>
