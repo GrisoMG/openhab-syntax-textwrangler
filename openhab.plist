@@ -114,6 +114,7 @@
 		<string>strategies</string>
 		<string>default</string>
 		<string>filter</string>
+		<string>Slider</string>
 	</array>
 	<key>BBLMLanguageDisplayName</key>
 	<string>OpenHAB</string>
